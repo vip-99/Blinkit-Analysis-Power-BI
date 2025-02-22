@@ -3,7 +3,7 @@
  primary goal of the analyzing Blinkit's sales data
 
  
-![Dashboard Image]([https://raw.githubusercontent.com/vip-99/EPL--2023-24--Season-_Analysis/main/download.jpg](https://raw.githubusercontent.com/vip-99/Blinkit-Analysis-Power-BI/main/Screenshot%20(146).png))
+![Dashboard Image](https://raw.githubusercontent.com/vip-99/Blinkit-Analysis-Power-BI/main/Screenshot%20(146).png)
 
 
 
