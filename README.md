@@ -3,7 +3,7 @@
  primary goal of the analyzing Blinkit's sales data
 
  
-![Dashboard Image](https://raw.githubusercontent.com/vip-99/EPL--2023-24--Season-_Analysis/main/download.jpg)
+![Dashboard Image]([https://raw.githubusercontent.com/vip-99/EPL--2023-24--Season-_Analysis/main/download.jpg](https://raw.githubusercontent.com/vip-99/Blinkit-Analysis-Power-BI/main/Screenshot%20(146).png))
 
 
 
@@ -100,6 +100,8 @@ Expand in Tier 3 Cities: Given their strong contribution, further investments sh
 Improve Weak Categories: Strategies are needed to boost sales in underperforming categories.
 Optimize Outlet Strategy: High outlets’ sales model could be adapted to other sizes.
 Leverage Customer Insights: Further analyze customer preferences to enhance product offerings and marketing strategies.
+
+
 
 
 
